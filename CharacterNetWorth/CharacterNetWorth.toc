@@ -1,0 +1,9 @@
+## Interface: 120105, 16001, 50504
+## Title: Character Net Worth
+## IconTexture: Interface\Icons\INV_Misc_Coin_02
+## Notes: Shows the vendor value of everything your character owns (equipped, bags and bank) on the character screen.
+## Author: Zxurian
+## Version: 1.2.1
+## SavedVariablesPerCharacter: zx_cnw_DB
+
+CharacterNetWorth.lua
